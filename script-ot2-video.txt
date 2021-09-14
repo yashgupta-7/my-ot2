@@ -1,0 +1,14 @@
+Ongoing COVID-19 pandemic has escalated the demand for fast, efficient and low resource 
+methods for testing large masses. 
+Tapestry Testing is a groud breaking idea which intends to do it both fast and efficient
+using the scientific ideas of Compressed Sensing. 
+Samples are intelligently pooled and tests preformed on those groups. Through algorithmic 
+analysis, the positive samples can be identified with unbelievable precision.
+This can be done more robustly through an automated robotic liquid handler, Opentrons OT-2, 
+making it faster, low human resource and thus, incredibly scalable.
+The current configuration with an 8 channel pippete and 96 well plates can handle 576 samples at a time. 
+These are smartly delivered into 72 pooled samples, which are then tested for the virus.
+The entire thing completes in around 100 minutes and requires a single human hand for very brief 
+periods for time.
+Newer configurations with 16 channel pippettes and 384 well plates will increase both
+scalability and speed.
